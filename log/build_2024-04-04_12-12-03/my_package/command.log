@@ -1,0 +1,1 @@
+Invoking command in '/home/ros/dev_ws/build/my_package': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ros/dev_ws/src/my_package -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ros/dev_ws/install/my_package
