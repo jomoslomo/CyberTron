@@ -1,0 +1,6 @@
+Invoking command in '/home/ros/CyberTron/build/my_package': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ros/CyberTron/my_package -DCMAKE_INSTALL_PREFIX=/home/ros/CyberTron/install/my_package
+Invoked command in '/home/ros/CyberTron/build/my_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ros/CyberTron/my_package -DCMAKE_INSTALL_PREFIX=/home/ros/CyberTron/install/my_package
+Invoking command in '/home/ros/CyberTron/build/my_package': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ros/CyberTron/build/my_package -- -j16 -l16
+Invoked command in '/home/ros/CyberTron/build/my_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ros/CyberTron/build/my_package -- -j16 -l16
+Invoking command in '/home/ros/CyberTron/build/my_package': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ros/CyberTron/build/my_package
+Invoked command in '/home/ros/CyberTron/build/my_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ros/CyberTron/build/my_package
